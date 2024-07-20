@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+body{
+    background: rgba(251, 32, 32, 0.667);
+   
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%););
+}
+.container{
+    height: 50px;
+    width: 250px;
+    border-style: double;
+    text-align: center;
+   margin: 20%;
+    margin-left: 40%;
+
+    border-color: beige;
+
+}span{
+color: white;
+text-align: center;
+font-size: 33px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
